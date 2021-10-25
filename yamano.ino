@@ -1,5 +1,3 @@
-// github.com/danieljlawson/digisparkreverseshell
-
 #include "DigiKeyboard.h"
 
 void setup()
