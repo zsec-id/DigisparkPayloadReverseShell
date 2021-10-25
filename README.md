@@ -7,7 +7,7 @@
 3. Ganti 'REMOTESCRIPTURL' dengan link raw paste yang kamu salin tadi di line 37 didalam 'yamano.ino'
 4. Buka dan upload 'yamano.ino' via Arduino IDE untuk digispark milikmu.
 5. Buatlah netcat target . `nc -v -n -l -p PORT`
-6. Apabila sudah jalankan script ter
+6. Apabila sudah jalankan script tersebut
 
 ## Apa yang dilakukan
 - Menonaktifkan Windows Defender untuk memungkinkan koneksi Reverse Shell antara korban dan server.
