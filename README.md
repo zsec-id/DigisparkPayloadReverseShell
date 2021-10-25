@@ -9,7 +9,7 @@
 5. Buatlah netcat target . `nc -v -n -l -p PORT`
 6. Apabila sudah jalankan script ter
 
-## What it Does
+## Apa yang dilakukan
 - Menonaktifkan Windows Defender untuk memungkinkan koneksi Reverse Shell antara korban dan server.
 - Membuat koneksi Reverse Shell menggunakan script Powershell yang dihosting secara online.
 - Bypass UAC
